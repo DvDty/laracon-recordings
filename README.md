@@ -2,4 +2,4 @@
 
 - <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/us.png" alt="us" width="25px" /> [Laracon US 2023 Nashville](https://www.youtube.com/playlist?list=PLcjapmjyX17jzppvEwm8hoA4fmwrUxtDD)
 
-- <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/au.png" alt="au" width="25px" /> [Laracon AU 2023](https://www.youtube.com/playlist?list=PLEkJYA4gJb790pSB3FAS6ArHUXwoiHgFB)https://www.youtube.com/playlist?list=PLEkJYA4gJb790pSB3FAS6ArHUXwoiHgFB
+- <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/au.png" alt="au" width="25px" /> [Laracon AU 2023](https://www.youtube.com/playlist?list=PLEkJYA4gJb790pSB3FAS6ArHUXwoiHgFB)
