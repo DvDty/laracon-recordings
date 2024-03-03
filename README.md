@@ -1,1 +1,24 @@
- # <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/eu.png" alt="eu" width="35px" /> Laracon EU
+ # <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/eu.png" alt="eu" width="35px" /> Laracon EU 2024
+
+- [Jess Archer - Laravel Pulse: Behind the Scenes](https://www.youtube.com/watch?v=JurZ_h0hbQg)
+- [Luke Downing - Lessons From the Laravel Framework](https://www.youtube.com/watch?v=tQro-vqd9Y0)
+- [Kévin Dunglas - Running Laravel Apps With Frankenphp](https://www.youtube.com/watch?v=PzOLyz1vr5I)
+- [Roman Pronskiy - the PHP Foundation](https://www.youtube.com/watch?v=XE4g1Tl6RQw)
+- [Christoph Rumpel - Managing 5000+ Tests Efficiently](https://www.youtube.com/watch?v=tHHeTQI8OL8)
+- [Daniel Coulbourne - Flip the Switch Slowly](https://www.youtube.com/watch?v=OpCT3s4wTI0)
+- [Bobby Bouwmann - Surviving Large Applications](https://www.youtube.com/watch?v=jX3nWXyLank)
+- [Rissa Jackson - Window Magic, Command Line Wizardry](https://www.youtube.com/watch?v=pLDz8RDyLm8)
+- [Tobias Petry - Scaling Databases](https://www.youtube.com/watch?v=QbsmLXmpYXo)
+- [Freek Van Der Herten - Uncharted Packages](https://www.youtube.com/watch?v=i-ra0SsT_qo)
+- [Taylor Otwell - Laravel Update](https://www.youtube.com/watch?v=0g7HqfsCX4Y)
+- [Joe Dixon - Real -Time Laravel](https://www.youtube.com/watch?v=e4jSEsCINFQ)
+- [Michi Hoffmann - Eating Your Own Dog Food](https://www.youtube.com/watch?v=BB0FmpkhO5Q)
+- [Shruti Balasa - Explore the Art of Customising Tailwindcss](https://www.youtube.com/watch?v=mVdV1Z3srBU)
+- [James Brooks - Working at Laravel](https://www.youtube.com/watch?v=iBj69TWGiRg)
+- [Mateus Guimarães Unveiling the Modular Monolith](https://www.youtube.com/watch?v=WqL6wgH1fKs)
+- [Tomas Votruba - Let Rector Do the Boring Work](https://www.youtube.com/watch?v=qGrsvcWdERc)
+- [Katerina Trajchevska - Maximizing Your Team’s Performance](https://www.youtube.com/watch?v=jPq6jHMhTv0)
+- [Tim Macdonald - Thoughtful Performance](https://www.youtube.com/watch?v=NcucthcnGY0)
+- [Philo Hermans - Reusing Reusable Livewire Components](https://www.youtube.com/watch?v=MbynDaPaBt4)
+- [Marcel Pociot - Parsing PHP for Fun…and Profit](https://www.youtube.com/watch?v=3gqPJvY8d30)
+
