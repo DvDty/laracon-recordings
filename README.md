@@ -41,3 +41,24 @@
 - [Aaron Francis - Publishing Your Work](https://www.youtube.com//watch?v=2YaEtaXYVtI)
 - [Stephen Rees-Carter - Th1nk Lik3 a H4cker](https://www.youtube.com//watch?v=yBJStg-KMlU)
 
+# <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/au.png" alt="au" width="35px" /> Laracon AU 2023
+
+- [Michael Dyrynda - Welcome to Laracon AU 2023](https://www.youtube.com//watch?v=JfNJvLRPaXc)
+- [Nuno Maduro - What's new in Pest](https://www.youtube.com//watch?v=IH4-bkDSqyk)
+- [James Brooks - Documenting Laravel APIs](https://www.youtube.com//watch?v=K-g-t99mKZU)
+- [Jess Archer - Introducing Laravel Pulse](https://www.youtube.com//watch?v=-9jV5ra5KB4)
+- [Josh Hanley - Building a maintainable Livewire application](https://www.youtube.com//watch?v=esD6o8HYV5Q)
+- [Patima Tantiprasut - Designing with friction, it's irritatingly good](https://www.youtube.com//watch?v=ajVzCHECW9A)
+- [Samuel Levy - Accessibility on the backend](https://www.youtube.com//watch?v=ede-6Tj1Qbg)
+- [Laravel Team Q&amp;A](https://www.youtube.com//watch?v=OPbhLfB-Liw)
+- [Greg Skerman - 7 habits of a high performing team](https://www.youtube.com//watch?v=0D2SMiFdI54)
+- [Daniel Coulbourne - Put Verbs in your database](https://www.youtube.com//watch?v=-mb2L97Yq88)
+- [Marcel Pociot - Writing native apps with... PHP?](https://www.youtube.com//watch?v=hcFXW0g2u-g)
+- [Nina Karisik - Developerhood](https://www.youtube.com//watch?v=NaQTHp3XBsE)
+- [Richard Merryweather - Cultivating success with Laravel](https://www.youtube.com//watch?v=FpRfloGCruk)
+- [Marty Friedel - Statamic for Laravel devs](https://www.youtube.com//watch?v=xgt5plDy2Zk)
+- [Larene Le Gassick - Building an accessibility testing habit](https://www.youtube.com//watch?v=xrmfC5V1xzM)
+- [Sam Sehnert - Data encryption made easy](https://www.youtube.com//watch?v=32788JRtEnQ)
+- [Stephen Rees-Carter - Th1nk lik3 a h4cker](https://www.youtube.com//watch?v=cI4JoO_v4Hw)
+- [Rissa Jackson - Tapping into the power of junior developers](https://www.youtube.com//watch?v=-XTNIehN4mU)
+
