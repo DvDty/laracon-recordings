@@ -50,4 +50,8 @@
 
 - <img src="https://raw.githubusercontent.com/samuelngs/apple-emoji-linux/ios-16.4/png/160/emoji_u1f1ea_1f1fa.png" alt="eu" width="25px" /> [Laracon EU 2014](https://www.youtube.com/playlist?list=PLMdXHJK-lGoCYhxlU3OJ5bOGhcKtDMkcN)
 
+- <img src="https://raw.githubusercontent.com/samuelngs/apple-emoji-linux/ios-16.4/png/160/emoji_u1f1fa_1f1f2.png" alt="us" width="25px" /> [Laracon US 2014](https://www.youtube.com/playlist?list=PL7Hcdr-IM0X3Ykik9DBREHNe4q6oLszo3)
+
 - <img src="https://raw.githubusercontent.com/samuelngs/apple-emoji-linux/ios-16.4/png/160/emoji_u1f1ea_1f1fa.png" alt="eu" width="25px" /> [Laracon EU 2013](https://www.youtube.com/playlist?list=PLMdXHJK-lGoB-CIVsiQt0WU8WcYrb5eoe)
+ 
+- <img src="https://raw.githubusercontent.com/samuelngs/apple-emoji-linux/ios-16.4/png/160/emoji_u1f1fa_1f1f2.png" alt="us" width="25px" /> [Laracon US 2013](https://www.youtube.com/playlist?list=PL7Hcdr-IM0X09rk9CufWIiKOLCpt0GwR_)
