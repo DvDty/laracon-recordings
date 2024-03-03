@@ -1,4 +1,4 @@
- # <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/eu.png" alt="eu" width="35px" /> Laracon EU 2024
+ # <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/eu.png" alt="eu" width="35px" /> Laracon EU 2024 ([playlist](https://www.youtube.com/playlist?list=PLMdXHJK-lGoBx3Nq2jHgrU7DGsJNi1nwi))
 
 - [Jess Archer - Laravel Pulse: Behind the Scenes](https://www.youtube.com/watch?v=JurZ_h0hbQg)
 - [Luke Downing - Lessons From the Laravel Framework](https://www.youtube.com/watch?v=tQro-vqd9Y0)
