@@ -6,4 +6,4 @@
 
 - <img src="https://raw.githubusercontent.com/samuelngs/apple-emoji-linux/ios-16.4/png/160/emoji_u1f1ea_1f1fa.png" alt="eu" width="25px" /> [Laracon EU 2022](https://www.youtube.com/playlist?list=PLMdXHJK-lGoBcH4il_bq-aD_p34ZrBlas)
 
-- <img src="https://raw.githubusercontent.com/samuelngs/apple-emoji-linux/ios-16.4/png/160/emoji_u1f310.png" alt="eu" width="25px" /> [Laracon Online 2022]([https://www.youtube.com/playlist?list=PLMdXHJK-lGoBcH4il_bq-aD_p34ZrBlas](https://www.youtube.com/playlist?list=PLyfOROdV5_9OjT_LdVOuvbuD9HWHUV9Ut)
+- <img src="https://raw.githubusercontent.com/samuelngs/apple-emoji-linux/ios-16.4/png/160/emoji_u1f310.png" alt="eu" width="20px" /> [Laracon Online 2022](https://www.youtube.com/playlist?list=PLyfOROdV5_9OjT_LdVOuvbuD9HWHUV9Ut)
