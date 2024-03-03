@@ -1,1 +1,1 @@
- # <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/svg/eu.svg" alt="php" width="55" height="55"/> Laracon EU
+ # <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/eu.svg" alt="php"/> Laracon EU
