@@ -11,7 +11,7 @@
 - [Tobias Petry - Scaling Databases](https://www.youtube.com/watch?v=QbsmLXmpYXo)
 - [Freek Van Der Herten - Uncharted Packages](https://www.youtube.com/watch?v=i-ra0SsT_qo)
 - [Taylor Otwell - Laravel Update](https://www.youtube.com/watch?v=0g7HqfsCX4Y)
-- [Joe Dixon - Real -Time Laravel](https://www.youtube.com/watch?v=e4jSEsCINFQ)
+- [Joe Dixon - Real-time Laravel](https://www.youtube.com/watch?v=e4jSEsCINFQ)
 - [Michi Hoffmann - Eating Your Own Dog Food](https://www.youtube.com/watch?v=BB0FmpkhO5Q)
 - [Shruti Balasa - Explore the Art of Customising Tailwindcss](https://www.youtube.com/watch?v=mVdV1Z3srBU)
 - [James Brooks - Working at Laravel](https://www.youtube.com/watch?v=iBj69TWGiRg)
@@ -21,4 +21,23 @@
 - [Tim Macdonald - Thoughtful Performance](https://www.youtube.com/watch?v=NcucthcnGY0)
 - [Philo Hermans - Reusing Reusable Livewire Components](https://www.youtube.com/watch?v=MbynDaPaBt4)
 - [Marcel Pociot - Parsing PHP for Fun…and Profit](https://www.youtube.com/watch?v=3gqPJvY8d30)
+
+ # <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/png250px/us.png" alt="us" width="35px" /> Laracon US 2023 Nashville
+
+- [Nuno Maduro - Pest 2 - Summer of Spice](https://www.youtube.com//watch?v=AkDMDHAs09U)
+- [Zuzana Kunckova - The Curse of Knowledge](https://www.youtube.com//watch?v=SSgnN1tMOtU)
+- [Joel Clermont - Getting Unstuck](https://www.youtube.com//watch?v=23McCP-_9BE)
+- [Matt Stauffer - Enterprise Laravel](https://www.youtube.com//watch?v=KBigS5vLwZk)
+- [Ben Orenstein - Predictable Mistakes of the Developer-Turned-Founder](https://www.youtube.com//watch?v=CxqtK3k7PVM)
+- [Jason McCreary - Testing With Fakes](https://www.youtube.com//watch?v=LaKEFjA25r4)
+- [Jess Archer - Unveiling Laravel Prompts](https://www.youtube.com//watch?v=PW-2_-KxF-8)
+- [Taylor Otwell - Laravel Herd, Laravel 11, Laravel Folio, Laravel Volt](https://www.youtube.com//watch?v=1P3wLy49t2c)
+- [Caleb Porzio - Livewire 3](https://www.youtube.com//watch?v=U-N8Qqq02b0)
+- [Freek Van Der Herten - Enjoying Laravel Data](https://www.youtube.com//watch?v=CrO_7Df1cBc)
+- [Jake Bennett - State Machines](https://www.youtube.com//watch?v=1A1xFtlDyzU)
+- [Diana Scharf - Inertia.js](https://www.youtube.com//watch?v=50uRIFaUWqg)
+- [Marcel Pociot - Native PHP](https://www.youtube.com//watch?v=iG7VscBFnqo)
+- [Tim MacDonald - Laravel Precognition](https://www.youtube.com//watch?v=MMc2TzBY6l4)
+- [Aaron Francis - Publishing Your Work](https://www.youtube.com//watch?v=2YaEtaXYVtI)
+- [Stephen Rees-Carter - Th1nk Lik3 a H4cker](https://www.youtube.com//watch?v=yBJStg-KMlU)
 
