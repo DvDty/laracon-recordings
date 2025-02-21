@@ -1,4 +1,4 @@
-- <img src="https://raw.githubusercontent.com/samuelngs/apple-emoji-linux/ios-16.4/png/160/emoji_u1f1ea_1f1fa.png" alt="eu" width="25px" /> [Laracon EU 2024](https://www.youtube.com/playlist?list=PLMdXHJK-lGoBWLQkMSyUORJkGk3ou27YI)
+- <img src="https://raw.githubusercontent.com/samuelngs/apple-emoji-linux/ios-16.4/png/160/emoji_u1f1ea_1f1fa.png" alt="eu" width="25px" /> [Laracon EU 2025](https://www.youtube.com/playlist?list=PLMdXHJK-lGoBWLQkMSyUORJkGk3ou27YI)
 
 - <img src="https://raw.githubusercontent.com/samuelngs/apple-emoji-linux/ios-16.4/png/160/emoji_u1f1e6_1f1fa.png" alt="au" width="25px" /> [Laracon AU 2024](https://www.youtube.com/playlist?list=PLEkJYA4gJb78sid5NlCZcSPm2McRMcf9E)
 
