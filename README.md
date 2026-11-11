@@ -6,9 +6,7 @@
 
 - <img src="https://raw.githubusercontent.com/samuelngs/apple-emoji-linux/ios-16.4/png/160/emoji_u1f1ef_1f1f5.png" alt="eu" width="25px" /> [Laravel Live Japan 2026 Part 1](https://www.youtube.com/watch?v=TR25AkhjiRc)
 
-- <img src="https://raw.githubusercontent.com/samuelngs/apple-emoji-linux/ios-16.4/png/160/emoji_u1f1ea_1f1fa.png" alt="eu" width="25px" /> [Laracon EU 2026 Part 2](https://www.youtube.com/watch?v=YJmuKPk3d9M)
-
-- <img src="https://raw.githubusercontent.com/samuelngs/apple-emoji-linux/ios-16.4/png/160/emoji_u1f1ea_1f1fa.png" alt="eu" width="25px" /> [Laracon EU 2026 Part 1](https://www.youtube.com/watch?v=cucIWpAenro)
+- <img src="https://raw.githubusercontent.com/samuelngs/apple-emoji-linux/ios-16.4/png/160/emoji_u1f1ea_1f1fa.png" alt="eu" width="25px" /> [Laracon EU 2026](https://www.youtube.com/playlist?list=PLJ-dCbJnj3ls)
 
 - <img src="https://raw.githubusercontent.com/samuelngs/apple-emoji-linux/ios-16.4/png/160/emoji_u1f1e6_1f1fa.png" alt="au" width="25px" /> [Laracon AU 2025](https://www.youtube.com/playlist?list=PLEkJYA4gJb7_otDHI_q_x-AlWwVUheJJh)
 
